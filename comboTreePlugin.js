@@ -128,7 +128,7 @@
       this.id +
       '-select-all-input"' +
       'class="select-all-input"' +
-      ">[Select All]</label></li>"
+      ">" + this.options.selectAllText + "</label></li>"
     );
   };
 
