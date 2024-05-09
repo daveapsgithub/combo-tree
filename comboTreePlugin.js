@@ -16,7 +16,8 @@
     selected: [],
     collapse: false,
     selectAll: false,
-    animationTime: 200,
+    animationTime: 200,	
+	selectAllText: "[Select All]",
   };
 
   // LIFE CYCLE
