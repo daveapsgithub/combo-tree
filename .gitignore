@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/combo-tree2/FileContentIndex/927359e2-7c01-4595-9e1c-021ddbd0e936.vsidx
+/.vs/combo-tree2/v17/.wsuo
+*.vsidx
+/.vs/slnx.sqlite
+/.vs/combo-tree2/v17/DocumentLayout.json
