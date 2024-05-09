@@ -7,3 +7,5 @@
 *.vsidx
 /.vs/slnx.sqlite
 /.vs/combo-tree2/v17/DocumentLayout.json
+/.vs/VSWorkspaceState.json
+/.vs/ProjectSettings.json
